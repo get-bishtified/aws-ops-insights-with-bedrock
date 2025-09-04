@@ -50,8 +50,3 @@ Set these environment variables in your Lambda configuration:
 | `BEDROCK_MODEL_ID`   | Bedrock model ID (Claude 3 Haiku recommended)                               | `anthropic.claude-3-haiku-20240307-v1:0`      |
 
 ---
-
-## 🧑‍💻 Deployment
-1. Clone the repository and package the Lambda function:
-   ```bash
-   zip -r lambda_package.zip lambda_function.py
