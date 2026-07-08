@@ -49,20 +49,3 @@ Set these environment variables in your Lambda configuration:
 | `TEAMS_WEBHOOK_URL`  | MS Teams incoming webhook URL                                               | `https://outlook.office.com/webhook/...`      |
 | `BEDROCK_MODEL_ID`   | Bedrock model ID (Claude 3 Haiku recommended)                               | `anthropic.claude-3-haiku-20240307-v1:0`      |
 
----
-
-## 🎥 Learn With YouTube Tutorials
-
-Each project is **explained step-by-step** on YouTube with visuals and walkthroughs:
-
-🔗 [📺 Bishtify - Build Skills, Not Just Resumes](https://www.youtube.com/@getbishtified) 
-🧠 Subscribe for weekly ML + CloudOps demos.
-
----
-
-📩 **Contact:**  
-📧 `support@bishtify.com`
-
-🤝 Connect With Me - 📧 [Click here](https://topmate.io/pradeep_singh_bisht)
-🔗 Get Bishtified with:
-Bishtify - Let’s build skills — not just resumes! 🚀
